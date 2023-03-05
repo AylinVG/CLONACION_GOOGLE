@@ -21,4 +21,4 @@ Footer:Sección que incluye hipervínculos al final de la página.
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado :file:///C:/Users/Ariel/OneDrive/Documentos/ClonacionGoogle/index.html
+Aquí puedes visualizar mi proyecto terminado :https://app.netlify.com/sites/clonacion-googleavg/
